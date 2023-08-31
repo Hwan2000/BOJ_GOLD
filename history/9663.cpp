@@ -1,5 +1,5 @@
-//N-Queen
-
+//9663: N-Queen
+//https://www.acmicpc.net/problem/9663
 #include<iostream>
 
 using namespace std;
@@ -23,12 +23,12 @@ bool checkout(int x, int y){
 
 void nQueen(int maxnum){
   if(maxnum == N+1){
-    //cout << "Success: ";
-    answer += 1;
-    // for(int i=1; i<=N; i++){
-    //   cout << "(" << X[i] << "," << Y[i] << ") ";
-    // }
-    //cout << '\n';
+    cout << "Success: ";
+    //answer += 1;
+    for(int i=1; i<=N; i++){
+      cout << "(" << X[i] << "," << Y[i] << ") ";
+    }
+    cout << '\n';
     return;
   } else {
     for(int i=1; i<=N; i++){
@@ -46,6 +46,6 @@ void nQueen(int maxnum){
 int main(){
   cin >> N;
   nQueen(1);
-  cout << answer;
+  //cout << answer;
   return 0;
 }
