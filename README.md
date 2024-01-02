@@ -9,3 +9,4 @@ history 폴더의 파일 이름이 백준 문제 번호
 - [7576: N-Queen](https://www.acmicpc.net/problem/7576)
 - [9663: N-Queen](https://www.acmicpc.net/problem/9663)
 - [16928: 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
+- [10026: 적록색약](https://www.acmicpc.net/problem/10026)
