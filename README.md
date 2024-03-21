@@ -13,3 +13,4 @@ history 폴더의 파일 이름이 백준 문제 번호
 - [2493: 탑](https://www.acmicpc.net/problem/2493)
 - [11000: 강의실 배정](https://www.acmicpc.net/problem/11000)
 - [2812: 크게 만들기](https://www.acmicpc.net/problem/2812)
+- [6198: 옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)
